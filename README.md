@@ -1,10 +1,9 @@
 # Weather-React-Native-App
+App That shows temperature and weather condition for the cities input
 
 Startegy => 
 ![Screenshot from 2020-05-30 09-49-13](https://user-images.githubusercontent.com/57283161/83319297-e91d7680-a25a-11ea-9db0-88079dc91ae7.png)
 ![Screenshot from 2020-05-30 09-49-59](https://user-images.githubusercontent.com/57283161/83319301-f3d80b80-a25a-11ea-9d2a-0e709cfdcd58.png)
-
-App That shows temperature and weather condition for the cities input
 
 App after adding hardcoded data (no APIs used yet): 
 
