@@ -45,6 +45,7 @@ export default class SearchInput extends React.Component {
   }
 }
 
+//Validation Function
 SearchInput.propTypes = {
   onSubmit: PropTypes.func.isRequired,
   placeholder: PropTypes.string,
