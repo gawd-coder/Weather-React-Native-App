@@ -1,5 +1,5 @@
 # Weather-React-Native-App
-App That shows temperature, weather condition and picture for the cities input
+App That shows temperature and weather condition for the cities input
 
 App after adding hardcoded data (no APIs used yet): 
 
