@@ -5,6 +5,9 @@ Startegy =>
 ![Screenshot from 2020-05-30 09-49-13](https://user-images.githubusercontent.com/57283161/83319297-e91d7680-a25a-11ea-9db0-88079dc91ae7.png)
 ![Screenshot from 2020-05-30 09-49-59](https://user-images.githubusercontent.com/57283161/83319301-f3d80b80-a25a-11ea-9d2a-0e709cfdcd58.png)
 
+State Criteria
+![Screenshot from 2020-05-30 11-46-23](https://user-images.githubusercontent.com/57283161/83321155-428da180-a26b-11ea-9878-83c6fa5062fb.png)
+
 App after adding hardcoded data (no APIs used yet): 
 
 ![20200530_061115](https://user-images.githubusercontent.com/57283161/83315343-f0358c00-a23c-11ea-9bc5-9a25aaafe3d5.gif)
